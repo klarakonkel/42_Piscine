@@ -1,5 +1,5 @@
 # 42_Piscine
-The repository contains my solutions to the Piscine projects at 42 Berlin (Oct 2023).
+The repository contains my solutions to the Piscine projects at 42 Berlin (Oct 2023). Right now it's a mess.
 
 42 is a rigorous computer programming school that is entirely free and available to students no matter of their academic background. The Piscine, a part of the admissions process to the core curriculum, is a 4-week intense coding training, where the participants become acquinted with C programming and Bash scripting.
 42 teaching method is based on peer-to-peer, project learning. With a fully hands on appoach, they allow students to delve deep into code and thoroughly understand their work.
